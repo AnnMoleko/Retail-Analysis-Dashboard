@@ -13,5 +13,16 @@ The dashboard provides insights into sales performance, customer behavior, and p
 - **Time Trends**: Sales trends by month, quarter, and year.
 - **Interactive Filters**: Drill down by region, product, and customer type.
 
+## Dashboard Preview
+-Tools & Technologies
+-Microsoft Power BI (for data modeling & visualization)
+-Power Query (M language) for data transformation
+-DAX (Data Analysis Expressions) for measures & calculated columns
+-Sample Retail Dataset (CSV/Excel)
 
-
+---
+## Insights gained
+-Identified top 5 products by revenue.
+-Discovered sales seasonality across different regions.
+-Compared profit margins across categories.
+-Monitored customer contributions to revenue.
